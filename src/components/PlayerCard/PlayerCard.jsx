@@ -24,6 +24,7 @@ const PlayerCard = ({
       setIsSelected(true);
       setAvailableBalance(availableBalance - playerData.price);
       setSelectedPlayers([...selectedPlayers, playerData]);
+      toast("Player selected successfully!");
    };
 
    return (
