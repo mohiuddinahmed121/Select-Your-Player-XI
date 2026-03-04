@@ -1,0 +1,134 @@
+[
+   {
+      "id": 1,
+      "player-image": "https://i.ibb.co.com/XrRK6Hpj/tamim.jpg",
+      "player-name": "Tamim Iqbal",
+      "player-country": "Bangladesh",
+      "player-role": "Batsman",
+      "rating": 9.0,
+      "bating-style": "Left-hand Bat",
+      "bowling-style": "Right-arm Medium",
+      "price": 50000000
+   },
+   {
+      "id": 2,
+      "player-image": "https://i.ibb.co.com/35VYvLfW/mushfic.png",
+      "player-name": "Mushfiqur Rahim",
+      "player-country": "Bangladesh",
+      "player-role": "Wicketkeeper-Batsman",
+      "rating": 8.9,
+      "bating-style": "Right-hand Bat",
+      "bowling-style": "Right-arm Off Break",
+      "price": 45000000
+   },
+   {
+      "id": 3,
+      "player-image": "https://example.com/images/andre-russell.jpg",
+      "player-name": "Andre Russell",
+      "player-country": "West Indies",
+      "player-role": "All-Rounder",
+      "rating": 9.7,
+      "bating-style": "Right-hand Bat",
+      "bowling-style": "Right-arm Fast",
+      "price": 70000000
+   },
+   {
+      "id": 4,
+      "player-image": "https://example.com/images/babar-azam.jpg",
+      "player-name": "Babar Azam",
+      "player-country": "Pakistan",
+      "player-role": "Batsman",
+      "rating": 9.6,
+      "bating-style": "Right-hand Bat",
+      "bowling-style": "Right-arm Leg Break",
+      "price": 65000000
+   },
+   {
+      "id": 5,
+      "player-image": "https://example.com/images/rashid-khan.jpg",
+      "player-name": "Rashid Khan",
+      "player-country": "Afghanistan",
+      "player-role": "Bowler",
+      "rating": 9.4,
+      "bating-style": "Right-hand Bat",
+      "bowling-style": "Right-arm Leg Spin",
+      "price": 60000000
+   },
+   {
+      "id": 6,
+      "player-image": "https://example.com/images/mustafizur-rahman.jpg",
+      "player-name": "Mustafizur Rahman",
+      "player-country": "Bangladesh",
+      "player-role": "Bowler",
+      "rating": 8.8,
+      "bating-style": "Left-hand Bat",
+      "bowling-style": "Left-arm Fast Medium",
+      "price": 40000000
+   },
+   {
+      "id": 7,
+      "player-image": "https://example.com/images/faf-du-plessis.jpg",
+      "player-name": "Faf du Plessis",
+      "player-country": "South Africa",
+      "player-role": "Batsman",
+      "rating": 9.2,
+      "bating-style": "Right-hand Bat",
+      "bowling-style": "Right-arm Medium Fast",
+      "price": 55000000
+   },
+   {
+      "id": 8,
+      "player-image": "https://example.com/images/david-miller.jpg",
+      "player-name": "David Miller",
+      "player-country": "South Africa",
+      "player-role": "Batsman",
+      "rating": 9.1,
+      "bating-style": "Left-hand Bat",
+      "bowling-style": "Right-arm Off Spin",
+      "price": 50000000
+   },
+   {
+      "id": 9,
+      "player-image": "https://example.com/images/mahmudullah.jpg",
+      "player-name": "Mahmudullah",
+      "player-country": "Bangladesh",
+      "player-role": "All-Rounder",
+      "rating": 8.7,
+      "bating-style": "Right-hand Bat",
+      "bowling-style": "Right-arm Off Break",
+      "price": 38000000
+   },
+   {
+      "id": 10,
+      "player-image": "https://example.com/images/wanindu-hasaranga.jpg",
+      "player-name": "Wanindu Hasaranga",
+      "player-country": "Sri Lanka",
+      "player-role": "All-Rounder",
+      "rating": 9.3,
+      "bating-style": "Right-hand Bat",
+      "bowling-style": "Right-arm Leg Spin",
+      "price": 62000000
+   },
+   {
+      "id": 11,
+      "player-image": "https://example.com/images/liton-das.jpg",
+      "player-name": "Liton Das",
+      "player-country": "Bangladesh",
+      "player-role": "Wicketkeeper-Batsman",
+      "rating": 8.9,
+      "bating-style": "Right-hand Bat",
+      "bowling-style": "Right-arm Medium",
+      "price": 42000000
+   },
+   {
+      "id": 12,
+      "player-image": "https://example.com/images/sunil-narine.jpg",
+      "player-name": "Sunil Narine",
+      "player-country": "West Indies",
+      "player-role": "All-Rounder",
+      "rating": 9.2,
+      "bating-style": "Left-hand Bat",
+      "bowling-style": "Right-arm Off Spin",
+      "price": 58000000
+   }
+]
